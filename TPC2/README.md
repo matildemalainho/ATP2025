@@ -18,5 +18,5 @@ Esta sequência é repetida até o número de fósforos chegar a 0 (é usada a e
 
 #### Fim do jogo:
 O jogador que for forçado a tirar o último fósforo perde. Se ,após a respetiva jogada, o número de fosfóros for menor ou igual a 0 faz-se print da mensagem "Perdeste, o computador ganhou!".
-### Link para o código
+### Link para o código:
 [TPC2.py](https://github.com/user-attachments/files/22592345/TPC2.py)
