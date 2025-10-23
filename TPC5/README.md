@@ -1,6 +1,6 @@
-# TPC4
+# TPC5
 ## Autor: Matilde Malaínho; a111729
-![foto passe](https://github.com/user-attachments/assets/8f2c4369-682d-42a6-8983-0f1cd21b9896)
+![fotoperfil](https://github.com/user-attachments/assets/d7e0681e-3d69-4af1-a02d-7a0ad7f4beaf)
 ### Resumo:
 Para este trabalho foi elaborado um programa que permite criar, consultar, listar, guardar e carregar uma turma de alunos. Cada aluno é representado por um tuplo da seguinte forma: aluno = (nome, id, [notaTPC, notaProj, notaTeste]), sendo a turma uma lista de alunos, turma=[aluno]. Este código em Python implementa um pequeno sistema de gestão de turmas com menu interativo.
 #### Funcionalidades principais:
